@@ -1,0 +1,38 @@
+.ui.fixed.vertical.menu {
+  width: 50px;
+  box-shadow: none;
+  border: none;
+  background-color: #232E37;
+  color: #97A4B0;
+  border-radius: 0;
+  height: 1000px;
+}
+
+.icon {
+  color: #97A4B0;
+}
+
+.ui.divider {
+  color: #97A4B0;
+}
+
+.ui.left.fixed.bottom.vertical.menu {
+  position: fixed;
+  margin-top: 860px;
+}
+
+.ui.borderless.middle {
+  background: url('https://images.smash.gg/images/tournament/36179/image-65f3c0aaf545b06b142a2df21fc2e245.jpg') no-repeat;
+  height: 540px;
+  width: 110%;
+  background-size: cover;
+  position: absolute;
+  color: white;
+  filter: blur(5px);
+}
+
+.ui.two.column.middle.aligned.grid.container {
+  padding-top: 100px;
+  position: relative;
+  color: white;
+}
